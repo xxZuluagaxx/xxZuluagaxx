@@ -14,7 +14,7 @@
 <br>
 <h2 align="center">Un poco sobre mi </h2>
 
-🎓 Tecnologo en Analisis y Desarrollo de Software
+🎓 Tecnólogo en Análisis y Desarrollo de Software
 
 📝 Desarrollador de software, proactivo y autodidacta. Apasionado por la tecnologia
 

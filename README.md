@@ -32,7 +32,7 @@
 
   <h2>Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,kafka" />
   </a>
 
   <h2>Database</h2>

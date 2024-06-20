@@ -42,7 +42,7 @@
 
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode,idea,aws" />
   </a>
 
 </p>

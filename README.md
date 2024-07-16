@@ -1,9 +1,9 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center">Hello 👋 I am Sebastian Zuluaga</strong> ✨ </h1>
+<h1 align="center">Hola 👋 Yo soy Sebastian Zuluaga</strong> ✨ </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Profile+on+Github!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+mi+Perfil+de+Github!" /></a>
 </p>
 
 <p align="center">
